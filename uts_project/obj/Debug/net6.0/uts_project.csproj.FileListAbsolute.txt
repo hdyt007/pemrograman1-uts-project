@@ -1,0 +1,15 @@
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\bin\Debug\net6.0\uts_project.exe
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\bin\Debug\net6.0\uts_project.deps.json
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\bin\Debug\net6.0\uts_project.runtimeconfig.json
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\bin\Debug\net6.0\uts_project.dll
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\bin\Debug\net6.0\uts_project.pdb
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\obj\Debug\net6.0\uts_project.csproj.AssemblyReference.cache
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\obj\Debug\net6.0\uts_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\obj\Debug\net6.0\uts_project.AssemblyInfoInputs.cache
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\obj\Debug\net6.0\uts_project.AssemblyInfo.cs
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\obj\Debug\net6.0\uts_project.csproj.CoreCompileInputs.cache
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\obj\Debug\net6.0\uts_project.dll
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\obj\Debug\net6.0\refint\uts_project.dll
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\obj\Debug\net6.0\uts_project.pdb
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\obj\Debug\net6.0\uts_project.genruntimeconfig.cache
+D:\HIDAYAT\1. STMIK Akba\Semester 2\Pemrograman 1\Tugas\UTS_HIDAYAT_BAKRI_T203\uts_project\uts_project\obj\Debug\net6.0\ref\uts_project.dll
